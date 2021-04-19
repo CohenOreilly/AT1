@@ -1,0 +1,42 @@
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+    .title{  
+      overflow: hidden;    
+      padding: 15px;  
+      background: #263238; 
+      color: white;
+      margin: 0px; 
+    }
+    .body{  
+      overflow: hidden;  
+      margin: 0px;  
+      padding: 15PX;  
+      background-color: #1565c0;
+      color: white;
+      font-family:Arial, Helvetica, sans-serif;
+    } 
+    .footer{  
+      overflow: hidden;  
+      margin: 0px;  
+      padding: 15PX;  
+      background-color: #42A5F5;
+      color: white;
+      font-family:Arial, Helvetica, sans-serif;
+    } 
+    DD {
+      color: white;
+      border-radius: 2px;
+      background-color: #607d8b;
+      display: inline-block;
+      padding: 2px;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+    TD {
+      color: white;
+      border-radius: 2px;
+      padding: 2px;
+      font-family:Arial, Helvetica, sans-serif;
+      display: inline-flex;
+    }
